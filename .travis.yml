@@ -1,0 +1,5 @@
+language: node_js
+node_js:
+  - "0.14"
+after_success:
+  - surge --project ./src/ --domain viler-cognitive-biases.surge.sh
