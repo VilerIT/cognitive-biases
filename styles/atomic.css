@@ -1,0 +1,31 @@
+.p-relative {
+  position: relative;
+}
+
+.mb-185 {
+  margin-bottom: 185px;
+}
+
+.mt-40 {
+  margin-top: 40px;
+}
+
+.btn {
+  display: inline-block;
+
+  padding: 12px 24px;
+
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.btn-primary {
+  color: var(--white);
+
+  background: var(--primary);
+}
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+}

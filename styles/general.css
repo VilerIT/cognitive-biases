@@ -1,6 +1,13 @@
 @font-face {
+  font-weight: normal;
   font-family: 'Open Sans';
   src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-weight: bold;
+  font-family: 'Open Sans';
+  src: url('../fonts/OpenSans-Bold.ttf');
 }
 
 @font-face {
@@ -9,6 +16,9 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
+
   color: var(--dark);
   font-size: 16px;
   font-family: 'Open Sans', sans-serif;
@@ -21,6 +31,11 @@ h3,
 h4,
 h5,
 h6 {
+  z-index: 2;
+
+  margin: 0;
+
+  font-weight: normal;
   font-family: 'Neucha', sans-serif;
   line-height: 1.2em;
 }
@@ -37,8 +52,16 @@ h3 {
   font-size: 34px;
 }
 
+p {
+  position: relative;
+
+  z-index: 2;
+}
+
 .container {
-  max-width: 1110px;
+  position: relative;
+
+  width: 1110px;
   margin: 0 auto;
   padding: 100px 0;
 }
