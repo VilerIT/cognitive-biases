@@ -1,11 +1,16 @@
 @import url('./vars.css');
 @import url('./general.css');
+@import url('./grid.css');
 @import url('./atomic.css');
 @import url('./text.css');
-@import url('./grid.css');
+@import url('./card.css');
 
 .bg-light {
   background-color: var(--light);
+}
+
+.bg-dark-primary {
+  background-color: var(--dark-primary);
 }
 
 .bg-questions {
@@ -44,6 +49,8 @@
 .video {
   position: relative;
   top: 200px;
+
+  z-index: 2;
 
   margin-top: -200px;
 

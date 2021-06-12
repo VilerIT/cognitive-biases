@@ -14,6 +14,14 @@
   margin-top: 40px;
 }
 
+.mt-100 {
+  margin-top: 100px;
+}
+
+.fz-52 {
+  font-size: 52px;
+}
+
 .btn {
   display: inline-block;
 
