@@ -9,3 +9,7 @@
 .text-white {
   color: var(--white);
 }
+
+.text-dark-50 {
+  color: var(--dark-50);
+}
