@@ -1,5 +1,21 @@
+.d-flex {
+  display: flex;
+}
+
+.d-block {
+  display: block;
+}
+
 .p-relative {
   position: relative;
+}
+
+.m-0 {
+  margin: 0;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
 }
 
 .mb-20 {
@@ -22,16 +38,40 @@
   margin-top: 40px;
 }
 
+.mt-60 {
+  margin-top: 60px;
+}
+
 .mt-100 {
   margin-top: 100px;
+}
+
+.fz-12 {
+  font-size: 12px;
+}
+
+.fz-14 {
+  font-size: 14px;
+}
+
+.fz-18 {
+  font-size: 18px;
 }
 
 .fz-52 {
   font-size: 52px;
 }
 
+.p-40 {
+  padding: 40px;
+}
+
 .v-align-middle {
   vertical-align: middle;
+}
+
+.align-self-center {
+  align-self: center;
 }
 
 .btn {

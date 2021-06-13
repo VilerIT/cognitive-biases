@@ -6,6 +6,7 @@
 @import url('./background.css');
 @import url('./card.css');
 @import url('./manifest.css');
+@import url('./form.css');
 
 .main-image {
   position: absolute;

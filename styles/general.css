@@ -69,6 +69,10 @@ p {
   z-index: 2;
 }
 
+a {
+  color: var(--blue);
+}
+
 .container {
   position: relative;
 
