@@ -18,6 +18,10 @@
   cursor: pointer;
 }
 
+.form-send:hover {
+  background-color: var(--primary-dark);
+}
+
 .form-send::before {
   width: 24px;
   height: 24px;
