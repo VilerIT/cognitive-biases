@@ -2,14 +2,18 @@
   text-align: center;
 }
 
-.text-primary {
-  color: var(--primary);
-}
-
 .text-white {
   color: var(--white);
 }
 
+.text-dark {
+  color: var(--dark);
+}
+
 .text-dark-50 {
   color: var(--dark-50);
+}
+
+.text-white-50 {
+  color: var(--white-50);
 }

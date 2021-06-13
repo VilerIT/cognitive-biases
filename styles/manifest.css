@@ -14,3 +14,9 @@
 
   background: var(--brown);
 }
+
+.manifest-white {
+  color: var(--brown);
+
+  background: var(--white);
+}

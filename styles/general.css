@@ -37,6 +37,7 @@ h4,
 
   margin: 0;
 
+  color: var(--primary);
   font-weight: normal;
   font-family: 'Neucha', sans-serif;
   line-height: 1.2em;
