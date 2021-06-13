@@ -1,6 +1,6 @@
 # Cognitive Biases
-[![CI](https://github.com/VilerIT/cognitive-biases/actions/workflows/ci.yml/badge.svg)](https://github.com/VilerIT/layout-designer-project-lvl1/actions/workflows/ci.yml)
-[![Build Status](https://travis-ci.com/VilerIT/cognitive-biases.svg?branch=main)](https://travis-ci.com/VilerIT/layout-designer-project-lvl1)
+[![CI](https://github.com/VilerIT/cognitive-biases/actions/workflows/ci.yml/badge.svg)](https://github.com/VilerIT/cognitive-biases/actions/workflows/ci.yml)
+[![Build Status](https://travis-ci.com/VilerIT/cognitive-biases.svg?branch=main)](https://travis-ci.com/VilerIT/cognitive-biases)
 
 **Cognitive Biases** - is a set of common mistakes, made by beginners in programming.
 
