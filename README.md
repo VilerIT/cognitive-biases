@@ -6,6 +6,8 @@
 
 **Когнитивные искажения** - набор распространенных ошибок начинающих программистов.
 
+[The project on Surge / Проект на Surge](https://viler-cognitive-biases.surge.sh/)
+
 ## See also / Смотрите также
 
 * [Yash Ranadive Cognitive Biases in Programming](https://medium.com/hackernoon/cognitive-biases-in-programming-5e937707c27b)
